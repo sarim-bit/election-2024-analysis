@@ -92,7 +92,7 @@ The data model was designed to support robust filtering and interactivity in Pow
 - Party-affiliation joins with vote results
 - Drill-through and cross-filtering across entities
 
-![Model Diagram Screenshot](./visuals/model.png) 
+![Model Diagram Screenshot](./visuals/Model.png) 
 
 ---
 
