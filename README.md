@@ -112,7 +112,7 @@ The data model was designed to support robust filtering and interactivity in Pow
 ```
 /data                       → Raw & processed data (optional)
 /visuals                    → Dashboard screenshots & diagrams
-/scripts                    → SQL queries
+/sql                        → SQL queries and output
 India_Elections_2024.pbix   → Power BI dashboard file
 README.md                   → Project overview and usage guide
 ```
