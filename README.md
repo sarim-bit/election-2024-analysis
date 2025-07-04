@@ -2,7 +2,6 @@
 
 This project presents an interactive Power BI dashboard suite analyzing the results of the 2024 Indian General Elections. It provides a detailed overview of party and alliance performance, state-wise demographics, and constituency-level outcomes. The goal is to support political analysis, public transparency, and data-driven insight.
 
-**Author:** Sarim Rizvi
 **Tools Used:** Power BI, DAX, Bookmarks, Drill-through, Visual Interactions
 
 ---
@@ -110,9 +109,9 @@ The data model was designed to support robust filtering and interactivity in Pow
 ##  Repository Structure
 
 ```
-/data                       → Raw & processed data (optional)
-/visuals                    → Dashboard screenshots & diagrams
+/data                       → Raw & processed data
 /sql                        → SQL queries and output
+/visuals                    → Dashboard screenshots & diagrams
 India_Elections_2024.pbix   → Power BI dashboard file
 README.md                   → Project overview and usage guide
 ```
